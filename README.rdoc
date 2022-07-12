@@ -1,0 +1,3 @@
+= IMAP authenticate plugin for Redmine
+
+Uses IMAP authenticate method instead of login
